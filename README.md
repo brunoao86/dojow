@@ -15,3 +15,12 @@ Kata: https://codingdojo.org/kata/FooBarQix/
 Code: https://github.com/brunoao86/dojow/blob/dojo-ruby-foobarqix-08-08-2018/lib/foo_bar_qix.rb
 
 Test: https://github.com/brunoao86/dojow/blob/dojo-ruby-foobarqix-08-08-2018/spec/foo_bar_qix_spec.rb
+
+---
+
+**Ainda não faz parte do Slack do Dev-ES?**
+
+Acesse: https://devescom.herokuapp.com/
+
+*Todos os eventos são divulgados lá, além de discussões de tecnologia, notícias, vagas e
+outras cositas más!*
